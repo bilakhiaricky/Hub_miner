@@ -1,0 +1,2 @@
+# Hub_miner
+This is a set of functions and scripts for a) extracting all human-written text from pull requests, b) cleaning and structuring the data in a well-organized way, and c) performing text mining (topic modeling) on the dataset so as to classify distinct text comments into conceptual categories. Use the package 'rgithub' to extract the data Extract all the text comments for each pull request for a single project Retain timestamps and pull request ids for each comment
